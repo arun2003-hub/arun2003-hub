@@ -31,11 +31,3 @@ I'm a Software Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-### 🤖 AI & LLM Ecosystem:
-* 🔹 **RAG (Retrieval-Augmented Generation)**
-* 🔹 **LangChain & LangGraph**
-* 🔹 **Model Context Protocol (MCP)**
-* 🔹 **Multi-Agent Systems**
-* 🔹 **Anthropic Claude SDK**
-* 🔹 **Structured Outputs (Pydantic)**
-* 🔹 **Vector Storage (ChromaDB)**
