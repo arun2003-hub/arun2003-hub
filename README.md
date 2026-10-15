@@ -10,3 +10,5 @@ I'm a Software Developer
 * 🔹 **Databases & Vector Storage:** PostgreSQL, ChromaDB
 * 🔹 **Version Control & Tools:** Git
 
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+
