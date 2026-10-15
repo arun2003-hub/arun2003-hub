@@ -10,12 +10,9 @@ I'm a Software Developer
 * 🔹 **Databases & Vector Storage:** PostgreSQL, ChromaDB
 * 🔹 **Version Control & Tools:** Git
 
-### Connect with me:
-<p align="left">
-  <!-- Social linksing venumna inga add pannikalam -->
-</p>
 
-### Languages and Tools:
+
+## Languages and Tools:
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
